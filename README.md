@@ -63,4 +63,5 @@ Pot-O Media VA Extract is software developed by Muhammad Umar Hasyim Ashari. Wri
 
 ---
 
-**Note**: Beware of the false virus detection. Only 6 from 74 security vendor detected the build version (.exe) as a virus. The code itself doesn't produce virus, but when compiled with Pyinstaller, the compiled version detected as virus, see: https://www.virustotal.com/gui/file/89ea15e66c295a29fde087965fc01037e243337a85de8d46a85e1a69b89a6c48/detection 
+**Note**: Beware of the false virus detection. Only 6 from 74 security vendor detected the build version (.exe) as a virus. The code itself doesn't produce virus, but when compiled with Pyinstaller, my compiled version detected as virus, see: https://www.virustotal.com/gui/file/89ea15e66c295a29fde087965fc01037e243337a85de8d46a85e1a69b89a6c48/detection 
+With that in mind, maybe if you compile it yourself, the problem with false virus detection can have different result.
