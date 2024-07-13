@@ -7,7 +7,7 @@
 
 #### Description
 
-Welcome to Pot-O MediaVAExtract, the cutting-edge software designed to simplify the extraction of audio, video, subtitles, and fonts from your multimedia files. Whether you're a video editor, a content creator, or a tech enthusiast, Pot-O MediaVAExtract is your go-to tool for efficient and precise media extraction.
+Welcome to Pot-O MediaVAExtract, the cutting-edge software designed to simplify the extraction of audio, video, subtitles, and fonts from your multimedia files. Whether you're a video editor, a content creator, or a tech enthusiast, Pot-O Media VA Extract is your go-to tool for efficient and precise MP4/MKV media extraction.
 
 #### Features
 
@@ -32,6 +32,10 @@ Welcome to Pot-O MediaVAExtract, the cutting-edge software designed to simplify 
 6. **Reliable and Fast**:
    - Built using powerful libraries such as FFmpeg, ensuring reliable and fast performance.
    - Optimized for speed and accuracy, reducing the time needed for extraction tasks.
+  
+#### Purpose
+
+This software created for helping any anime fansub team for extract media and processed later.
 
 #### Technical Details for Build Version
 
@@ -53,10 +57,10 @@ Pot-O Media VA Extract is software developed by Muhammad Umar Hasyim Ashari. Wri
 
 #### How to Get Started
 
-1. **Download**: Download the latest version of Pot-O Media VA Extract.
+1. **Download**: Download the latest build version of Pot-O Media VA Extract.
 2. **Install**: Follow the simple installation instructions to get the software up and running on your system.
-3. **Extract**: Open Pot-O MediaVAExtract, select your multimedia file, and start extracting audio, video, subtitles, and fonts with ease.
+3. **Extract**: Open Pot-O MediaVAExtract, select your MP4/MKV file, and start extracting audio, video, subtitles with ease.
 
 ---
 
-**Note**: Beware of the false virus detection. Only 6 from 74 security vendor detected the build version (.exe) as a virus see: https://www.virustotal.com/gui/file/89ea15e66c295a29fde087965fc01037e243337a85de8d46a85e1a69b89a6c48/detection 
+**Note**: Beware of the false virus detection. Only 6 from 74 security vendor detected the build version (.exe) as a virus. The code itself doesn't produce virus, but when compiled with Pyinstaller, the compiled version detected as virus, see: https://www.virustotal.com/gui/file/89ea15e66c295a29fde087965fc01037e243337a85de8d46a85e1a69b89a6c48/detection 
